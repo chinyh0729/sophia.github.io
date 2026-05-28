@@ -3,7 +3,7 @@
 Personal website for relationship advisory, healing guidance, 
 carbon validation and risk consulting.
 
-🌐 Live site: https://Sophia.github.io
+🌐 Live site: https://sophia.github.io
 
 ## Services
 - 💑 Relationship Advisory & Essential Oils
